@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- *  main - Print the sizes of the various bData Types in C programming
+ *  main - Entry point
  *
  *  Return: Always 0 (Success)
  *
